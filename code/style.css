@@ -1,0 +1,16 @@
+.attribution {
+  display: block;
+  font-size: 11px;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  padding: 30px;
+  width: 100%;
+  background: #ccc;
+}
+
+.attribution a {
+  color: #3e52a3;
+}
+/*# sourceMappingURL=style.css.map */
